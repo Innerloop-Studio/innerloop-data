@@ -23,18 +23,8 @@
       "title": "Test Message 🧪",
       "body": "This is a test message to verify the notification system is working correctly. If you see this, it works!",
       "action": {
-        "label": "Nice!",
-        "url": null
-      }
-    },
-    {
-      "id": "004",
-      "date": "2026-02-26",
-      "title": "THE LAST",
-      "body": "Another test here",
-      "action": {
-        "label": "Wrong!",
-        "url": "https://pornhub.com"
+        "label": "WRONG!",
+        "url": "https://lol.com"
       }
     }
   ]
