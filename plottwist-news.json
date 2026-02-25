@@ -10,12 +10,22 @@
         "url": "https://discord.gg/7EggUhQxSV"
       }
     },
-        {
+    {
       "id": "002",
       "date": "2026-02-25",
       "title": "New: Where to Watch 🍿",
       "body": "Plot Twist now shows you which streaming platforms have your shows, based on your country. Tap any platform to open it directly.",
       "action": null
     },
+    {
+      "id": "003",
+      "date": "2026-02-25",
+      "title": "Test Message 🧪",
+      "body": "This is a test message to verify the notification system is working correctly. If you see this, it works!",
+      "action": {
+        "label": "Nice!",
+        "url": null
+      }
+    }
   ]
 }
