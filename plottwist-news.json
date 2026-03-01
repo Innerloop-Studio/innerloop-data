@@ -1,7 +1,7 @@
 {
   "messages": [
     {
-      "id": "005",
+      "id": "001",
       "date": "2026-02-23",
       "title": "Welcome to Plot Twist! 👋",
       "body": "Thanks for trying Plot Twist! We're a small indie team and your feedback means everything. Join our Discord and say hi!",
@@ -11,20 +11,27 @@
       }
     },
     {
-      "id": "006",
+      "id": "002",
+      "date": "2026-02-25",
+      "title": "New: Where to Watch 🍿",
+      "body": "Plot Twist now shows you which streaming platforms have your shows, based on your country. Tap any platform to open it directly.",
+      "action": null
+    },
+     {
+      "id": "003",
       "date": "2026-02-25",
       "title": "New: Where to Watch 🍿",
       "body": "Plot Twist now shows you which streaming platforms have your shows, based on your country. Tap any platform to open it directly.",
       "action": null
     },
     {
-      "id": "007",
+      "id": "004",
       "date": "2026-02-25",
       "title": "Test Message 🧪",
-      "body": "This is a test message to verify the notification system is working correctly. If you see this, it works!",
+      "body": "What does it mean to embody feminine energy? And why is it so important? To start, when we are talking about feminine energy, and masculine energy, we are not just talking about stereotypical what it means to be a man or a woman what it means to be a boy or girl. Both men and women have feminine energy, just like both men and women have masculine energy. But if you are female, you typically operate a little bit more in your feminine energy. If you’re male, you typically operate more in your masculine energy. Healthy relationships with yourself, and with others, are about a balance between the two of these things.",
       "action": {
-        "label": "WRONG!",
-        "url": "https://lol.com"
+        "label": "Yes!",
+        "url": "https://pornhub.com"
       }
     }
   ]
