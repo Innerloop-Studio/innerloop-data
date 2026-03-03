@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "002",
+      "date": "2026-03-03",
+      "title": "Testing",
+      "body": "Eat Popcorn",
+      "action": null
+    },
+    {
       "id": "001",
       "date": "2026-03-03",
       "title": "Welcome to Plot Twist! 👋",
@@ -9,41 +16,6 @@
         "label": "Join our Discord",
         "url": "https://discord.gg/7EggUhQxSV"
       }
-    },
-    {
-      "id": "002",
-      "date": "2026-02-28",
-      "title": "New: Where to Watch 🍿",
-      "body": "Give me your vibe!",
-      "action": null
-    },
-    {
-      "id": "003",
-      "date": "2026-02-25",
-      "title": "New: Where to Watch 🍿",
-      "body": "Plot Twist now shows you which streaming platforms have your shows, based on your country. Tap any platform to open it directly.",
-      "action": null
-    },
-    {
-      "id": "004",
-      "date": "2026-02-25",
-      "title": "New: Where to Watch 🍿",
-      "body": "Plot Twist now shows you which streaming platforms have your shows, based on your country. Tap any platform to open it directly.",
-      "action": null
-    },
-    {
-      "id": "005",
-      "date": "2026-02-25",
-      "title": "Test Message 🧪",
-      "body": "Release me!",
-      "action": null
-    },
-    {
-      "id": "006",
-      "date": "2026-02-25",
-      "title": "Test Message 🧪",
-      "body": "Again!!!!!",
-      "action": null
     }
   ]
 }
