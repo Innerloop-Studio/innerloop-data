@@ -1,13 +1,6 @@
 {
   "messages": [
     {
-      "id": "002",
-      "date": "2026-03-03",
-      "title": "Testing",
-      "body": "Eat Popcorn",
-      "action": null
-    },
-    {
       "id": "001",
       "date": "2026-03-03",
       "title": "Welcome to Plot Twist! 👋",
